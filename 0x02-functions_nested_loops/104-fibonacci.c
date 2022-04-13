@@ -15,7 +15,7 @@ int main(void)
 	b = 2;
 	r = 0;
 	printf("1, 2");
-	for(i = 1; i <= 96; i++)
+	for(i = 1; i <= 98; i++)
 	{
 		r = a + b;
 		a = b;
