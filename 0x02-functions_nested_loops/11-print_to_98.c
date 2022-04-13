@@ -3,9 +3,9 @@
 
 /**
  * print_to_98 - Prints all nos till 98
- * @n: the nos
- * 
- * Return: Always 0
+ * @n: checker
+ *
+ * Return: number
  */
 void print_to_98(int n)
 {
